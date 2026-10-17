@@ -1,0 +1,18 @@
+# 数据与训练产物
+data/
+outputs/
+
+# 权重
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# 本地环境专用
+运行_conda.bat
+
+*.iml
